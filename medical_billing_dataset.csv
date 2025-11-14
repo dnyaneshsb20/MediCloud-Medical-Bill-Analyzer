@@ -1,0 +1,101 @@
+PatientID,Name,Age,Gender,Doctor,Symptom,Medicines,ConsultationFee,MedicineCost,TotalBill,Email
+1,Beverly Graham,69,Male,Dr. Mehta,Headache,"Vitamin D, Amoxicillin, Paracetamol",400,410,810,crawfordmanuel@example.com
+2,Joshua Fischer,78,Male,Dr. Reddy,Headache,"Vitamin D, Paracetamol",400,148,548,karen46@example.com
+3,Tara Browning,22,Male,Dr. Reddy,Back Pain,Ibuprofen,300,477,777,charleshenderson@example.net
+4,Katherine Moore,49,Female,Dr. Mehta,Cold,"Amoxicillin, Antacid, Paracetamol",300,458,758,johnstondonna@example.org
+5,Amanda Smith,30,Male,Dr. Khan,Chest Pain,"Paracetamol, Cough Syrup, Vitamin D",400,331,731,christophermccall@example.com
+6,Valerie Hill,31,Female,Dr. Patel,Stomach Pain,Antacid,300,337,637,smithluis@example.com
+7,Cynthia Williams,49,Male,Dr. Sharma,Chest Pain,"Amoxicillin, Cough Syrup, Vitamin D",500,464,964,wstewart@example.com
+8,Eric Myers,79,Male,Dr. Patel,Back Pain,"Paracetamol, Antacid",500,205,705,william07@example.net
+9,Michael Pitts,25,Female,Dr. Mehta,Cough,Antacid,300,151,451,jjones@example.com
+10,Tanner Keller,28,Female,Dr. Mehta,Stomach Pain,"Antacid, Vitamin D, Amoxicillin",300,423,723,jasmine31@example.com
+11,Melissa Stone,54,Female,Dr. Mehta,Chest Pain,"Antacid, Paracetamol",300,412,712,michaelburke@example.net
+12,Crystal Park,51,Male,Dr. Mehta,Stomach Pain,"Ibuprofen, Cough Syrup, Paracetamol",200,391,591,sjacobs@example.org
+13,Aaron Riggs,63,Female,Dr. Mehta,Cough,"Antacid, Amoxicillin, Vitamin D",400,484,884,nicholseric@example.org
+14,Lindsay Ritter,10,Male,Dr. Reddy,Back Pain,"Paracetamol, Antacid",200,485,685,phamvalerie@example.net
+15,Robert Wallace,29,Male,Dr. Sharma,Stomach Pain,"Paracetamol, Cough Syrup",500,411,911,dudleymegan@example.org
+16,Paul Cole,30,Female,Dr. Patel,Cold,"Cough Syrup, Vitamin D",400,468,868,ucastaneda@example.com
+17,Richard Garrett,10,Male,Dr. Reddy,Stomach Pain,"Antacid, Vitamin D, Cough Syrup",500,223,723,ryanwilliams@example.net
+18,Tyler Bryant,53,Male,Dr. Reddy,Fatigue,Ibuprofen,300,132,432,xlopez@example.com
+19,Sarah Rangel,77,Female,Dr. Reddy,Back Pain,"Amoxicillin, Antacid, Cough Syrup",400,290,690,stacey66@example.org
+20,Jonathan Rodriguez,79,Female,Dr. Sharma,Stomach Pain,"Cough Syrup, Paracetamol",200,338,538,dwhite@example.com
+21,Mrs. Kathleen Mueller MD,30,Male,Dr. Sharma,Cough,"Cough Syrup, Paracetamol",200,387,587,nelsonpeggy@example.net
+22,Norman Miller,80,Male,Dr. Patel,Fatigue,"Paracetamol, Amoxicillin",400,379,779,twhite@example.org
+23,Duane Morse,32,Female,Dr. Reddy,Chest Pain,"Amoxicillin, Vitamin D, Cough Syrup",400,441,841,roberthines@example.org
+24,Laura Nguyen,71,Female,Dr. Sharma,Fatigue,Amoxicillin,200,307,507,rebeccanguyen@example.org
+25,Michael Munoz,66,Female,Dr. Reddy,Fatigue,"Ibuprofen, Paracetamol, Cough Syrup",200,149,349,robertsamanda@example.org
+26,Jeffery Harris,43,Female,Dr. Patel,Fatigue,"Ibuprofen, Paracetamol, Vitamin D",300,440,740,edward37@example.com
+27,Julie Cox,77,Female,Dr. Reddy,Cold,"Cough Syrup, Paracetamol",400,338,738,oturner@example.com
+28,Stephanie Swanson,58,Male,Dr. Sharma,Cold,"Paracetamol, Ibuprofen, Vitamin D",300,367,667,daviesrichard@example.org
+29,Kevin Warren,22,Male,Dr. Khan,Back Pain,Amoxicillin,200,259,459,rlang@example.net
+30,Victoria Orr,23,Female,Dr. Mehta,Fatigue,"Vitamin D, Antacid",300,454,754,isanders@example.net
+31,Miss Mary Baker,70,Male,Dr. Patel,Stomach Pain,"Antacid, Ibuprofen, Amoxicillin",500,173,673,allenlittle@example.net
+32,Amy Jones MD,59,Male,Dr. Patel,Cold,"Amoxicillin, Cough Syrup",300,228,528,joanna92@example.org
+33,Lori Brooks,40,Female,Dr. Sharma,Cough,"Antacid, Paracetamol, Vitamin D",300,323,623,william89@example.net
+34,Alexandria Bryant,73,Female,Dr. Mehta,Fatigue,"Ibuprofen, Antacid, Cough Syrup",200,265,465,williamsbrian@example.org
+35,Michael Vincent,62,Male,Dr. Reddy,Stomach Pain,Ibuprofen,400,134,534,scott32@example.com
+36,Daniel Becker,63,Female,Dr. Reddy,Fever,"Amoxicillin, Ibuprofen, Cough Syrup",300,169,469,saraguerra@example.org
+37,Valerie Taylor,21,Female,Dr. Patel,Back Pain,Cough Syrup,500,117,617,lori25@example.org
+38,Joshua Thornton,19,Female,Dr. Reddy,Cold,Paracetamol,200,426,626,curtis38@example.com
+39,Stacey Bird,24,Female,Dr. Reddy,Cold,Antacid,200,305,505,cohenchristian@example.org
+40,Gabrielle Sanders,31,Female,Dr. Sharma,Back Pain,"Cough Syrup, Vitamin D",500,455,955,markedwards@example.org
+41,Theresa Sampson,13,Male,Dr. Patel,Cold,"Vitamin D, Cough Syrup, Ibuprofen",200,399,599,barrlisa@example.com
+42,Gerald Martinez,36,Female,Dr. Reddy,Back Pain,Paracetamol,500,273,773,robinsonamber@example.org
+43,George Montgomery,34,Female,Dr. Khan,Back Pain,"Ibuprofen, Cough Syrup, Antacid",500,250,750,jasonwilson@example.net
+44,Kimberly Warner,14,Female,Dr. Khan,Headache,"Antacid, Vitamin D",400,262,662,lisarosales@example.com
+45,Elizabeth King,18,Female,Dr. Khan,Chest Pain,Cough Syrup,400,415,815,kristinbishop@example.com
+46,Lawrence George,39,Male,Dr. Patel,Cough,"Amoxicillin, Antacid",200,371,571,sherryali@example.net
+47,Christopher Andrade,19,Male,Dr. Reddy,Back Pain,"Vitamin D, Amoxicillin, Ibuprofen",200,476,676,jonathansalas@example.com
+48,Lee Mitchell,49,Male,Dr. Khan,Headache,Cough Syrup,200,476,676,iwilson@example.net
+49,Patrick Norris,46,Male,Dr. Sharma,Cold,"Paracetamol, Amoxicillin",500,463,963,gmoran@example.com
+50,Katrina Cochran DDS,45,Male,Dr. Patel,Fatigue,"Antacid, Paracetamol",500,266,766,kelly23@example.com
+51,Mr. Roy Paul,13,Male,Dr. Reddy,Back Pain,"Paracetamol, Cough Syrup",300,175,475,uhodge@example.com
+52,Jon Mcneil,13,Female,Dr. Patel,Fever,"Ibuprofen, Antacid",400,482,882,patricia45@example.net
+53,Summer Mclean,54,Male,Dr. Mehta,Chest Pain,Vitamin D,500,287,787,foxbrian@example.org
+54,Jessica Sanders,29,Male,Dr. Reddy,Fever,"Amoxicillin, Vitamin D, Antacid",400,462,862,jennifer71@example.org
+55,Derek Matthews,62,Female,Dr. Sharma,Stomach Pain,"Paracetamol, Antacid",300,120,420,douglas29@example.net
+56,Mario Kidd,27,Male,Dr. Sharma,Back Pain,"Ibuprofen, Vitamin D",400,398,798,devinpitts@example.org
+57,Donna Vargas,32,Female,Dr. Reddy,Back Pain,"Ibuprofen, Cough Syrup",300,111,411,hayeskathryn@example.com
+58,Melissa Lindsey,18,Female,Dr. Reddy,Stomach Pain,"Amoxicillin, Vitamin D, Ibuprofen",200,336,536,ortizwilliam@example.com
+59,Molly Brown,20,Female,Dr. Sharma,Chest Pain,"Vitamin D, Ibuprofen, Amoxicillin",500,249,749,anthonyanderson@example.com
+60,Kimberly Meyers,12,Female,Dr. Patel,Headache,"Cough Syrup, Vitamin D, Paracetamol",200,139,339,wrightwesley@example.org
+61,Jacqueline Jones,53,Female,Dr. Patel,Headache,"Paracetamol, Vitamin D",400,268,668,brucewright@example.net
+62,Valerie Coleman,72,Male,Dr. Reddy,Fever,Paracetamol,500,259,759,bbailey@example.org
+63,Christina Thompson,70,Male,Dr. Reddy,Cough,"Ibuprofen, Antacid",500,166,666,mendezleah@example.net
+64,Teresa Henry,28,Female,Dr. Sharma,Cold,Paracetamol,400,422,822,christopherpratt@example.com
+65,Mark Foley,12,Male,Dr. Mehta,Back Pain,"Ibuprofen, Cough Syrup, Amoxicillin",500,143,643,meganhenderson@example.org
+66,Erica Reyes,29,Male,Dr. Sharma,Chest Pain,"Vitamin D, Paracetamol",400,427,827,teresa84@example.net
+67,Madison Palmer,19,Male,Dr. Khan,Fever,"Antacid, Paracetamol",400,258,658,joshua64@example.org
+68,Kimberly Price,80,Male,Dr. Reddy,Fever,"Ibuprofen, Cough Syrup, Vitamin D",200,485,685,coxjillian@example.net
+69,Kenneth Underwood,26,Male,Dr. Reddy,Stomach Pain,Ibuprofen,400,209,609,brad57@example.com
+70,Daniel Sellers,46,Male,Dr. Mehta,Back Pain,"Antacid, Cough Syrup, Ibuprofen",400,263,663,lori46@example.net
+71,Adam Campbell,46,Female,Dr. Reddy,Fatigue,"Paracetamol, Vitamin D",500,183,683,ydavis@example.net
+72,Tara Baker,49,Female,Dr. Mehta,Headache,"Ibuprofen, Paracetamol, Cough Syrup",200,348,548,christophersimmons@example.com
+73,Christopher Leon,72,Female,Dr. Patel,Fatigue,Antacid,400,239,639,michaelwall@example.org
+74,Devon Washington,30,Female,Dr. Reddy,Back Pain,Vitamin D,200,494,694,qflores@example.net
+75,Ashley Scott,58,Female,Dr. Mehta,Headache,"Vitamin D, Antacid",400,275,675,jacksonfrank@example.com
+76,Gene Atkinson,67,Male,Dr. Mehta,Chest Pain,"Paracetamol, Ibuprofen, Antacid",200,328,528,sfranco@example.net
+77,Jonathon Richards,80,Male,Dr. Reddy,Stomach Pain,"Amoxicillin, Ibuprofen, Paracetamol",500,366,866,joseph47@example.org
+78,Kelly Baker,74,Male,Dr. Sharma,Fever,"Ibuprofen, Amoxicillin, Cough Syrup",400,185,585,barnettcaitlin@example.org
+79,Jonathon Smith,46,Female,Dr. Patel,Chest Pain,"Vitamin D, Paracetamol",200,403,603,tburns@example.net
+80,Heather Turner,44,Female,Dr. Patel,Headache,"Vitamin D, Antacid",300,122,422,jessica15@example.org
+81,Crystal Griffith,24,Male,Dr. Patel,Back Pain,"Amoxicillin, Cough Syrup",500,151,651,mmccormick@example.org
+82,Kevin Robinson,13,Female,Dr. Mehta,Fatigue,Paracetamol,200,240,440,emcdowell@example.com
+83,Steven Carroll,49,Male,Dr. Patel,Fatigue,"Cough Syrup, Paracetamol, Antacid",400,365,765,hartmanrebecca@example.com
+84,Alyssa Castro,75,Male,Dr. Mehta,Headache,"Antacid, Ibuprofen, Paracetamol",500,374,874,toddmitchell@example.com
+85,Jason Pena,10,Female,Dr. Patel,Fatigue,Antacid,300,353,653,johnsonmichelle@example.com
+86,Mrs. Denise Davis,57,Male,Dr. Patel,Fever,"Antacid, Cough Syrup, Paracetamol",500,107,607,thomas23@example.net
+87,Jeffrey Gardner,61,Male,Dr. Mehta,Fever,"Amoxicillin, Ibuprofen",400,136,536,strongjesse@example.net
+88,Lori Johnson,50,Female,Dr. Mehta,Headache,Cough Syrup,400,421,821,fgarcia@example.com
+89,Robert Byrd,36,Female,Dr. Patel,Headache,"Vitamin D, Antacid",200,480,680,prodriguez@example.com
+90,Antonio Olson,31,Male,Dr. Reddy,Back Pain,"Paracetamol, Ibuprofen, Amoxicillin",400,280,680,diamondsteele@example.net
+91,Donna Young,21,Male,Dr. Khan,Cough,Cough Syrup,300,284,584,dennis44@example.com
+92,William Lopez,69,Female,Dr. Patel,Fever,"Antacid, Cough Syrup, Vitamin D",300,256,556,emiller@example.net
+93,Shawn Eaton,30,Male,Dr. Khan,Back Pain,"Vitamin D, Cough Syrup",400,494,894,xstafford@example.com
+94,Austin Humphrey,54,Male,Dr. Khan,Fatigue,Antacid,500,226,726,sherylfoster@example.org
+95,Robert Flores,26,Male,Dr. Khan,Fatigue,"Antacid, Paracetamol, Vitamin D",300,255,555,calvin79@example.net
+96,Jason Cook,25,Female,Dr. Reddy,Cough,"Vitamin D, Cough Syrup, Antacid",500,174,674,caldwellsarah@example.org
+97,Melissa Washington,74,Female,Dr. Patel,Headache,"Paracetamol, Antacid",300,335,635,william07@example.net
+98,Michelle Boyle,43,Male,Dr. Reddy,Fatigue,Cough Syrup,500,163,663,raven14@example.com
+99,Carlos Rodgers,63,Female,Dr. Patel,Fatigue,"Antacid, Paracetamol, Vitamin D",300,334,634,ifrederick@example.com
+100,Andrew Hernandez,52,Female,Dr. Patel,Stomach Pain,"Cough Syrup, Vitamin D",500,219,719,cheyenne38@example.com
